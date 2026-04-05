@@ -1,35 +1,30 @@
 # 🍔 Natty or Not - Comida Real vs IA
 
 ## 📌 Descrição
-Projeto desenvolvido no Lab da DIO com foco em explorar o uso de Inteligência Artificial Generativa.
+Projeto desenvolvido no Lab da DIO com o objetivo de explorar o uso de Inteligência Artificial Generativa na criação de conteúdos realistas.
 
-A proposta foi criar conteúdos simulando comidas realistas e comparar com comidas reais, desafiando o usuário a identificar: é real ou gerado por IA?
+A proposta foi simular ideias de alimentos e compará-las com conteúdos reais, desafiando a percepção entre o que é real e o que foi gerado por IA.
 
 ---
 
 ## 🚀 Tecnologias Utilizadas
 - ChatGPT
-- IA de geração de imagens
+- DALL·E (geração de imagens por IA)
 - GitHub
 
 ---
 
 ## 📚 Processo de Criação
-Foram utilizadas ferramentas de IA para gerar conteúdos visuais realistas.
+Foram utilizadas ferramentas de IA para gerar ideias e simular conteúdos visuais com aparência realista.
 
-A ideia foi explorar criatividade e o potencial das IAs no dia a dia.
+O projeto buscou explorar criatividade, aplicação prática e o impacto das IAs no cotidiano.
 
 ---
 
 ## 🎯 Resultados
-A IA conseguiu gerar conteúdos muito próximos da realidade.
+Os resultados demonstraram que a IA é capaz de gerar conteúdos muito próximos da realidade, destacando seu potencial para criação de conteúdo.
 
 ---
 
 ## 🧠 Conclusão
-As IAs generativas têm grande potencial para criação de conteúdo e uso em negócios.
-
----
-
-## 🔗 Link do Projeto
-https://github.com/kahsous/projeto
+As IAs generativas possuem grande potencial para criação de conteúdo, podendo ser aplicadas em áreas como marketing, redes sociais e negócios.
