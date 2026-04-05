@@ -1,5 +1,11 @@
 # 🍔 Natty or Not - Comida Real vs IA
 
+![Imagem gerada por IA](https://raw.githubusercontent.com/kahsous/projeto/refs/heads/main/WhatsApp%20Image%202026-04-05%20at%2014.24.48.jpeg)
+
+*Imagem gerada por IA utilizando DALL·E*
+
+---
+
 ## 📌 Descrição
 Projeto desenvolvido no Lab da DIO com o objetivo de explorar o uso de Inteligência Artificial Generativa na criação de conteúdos realistas.
 
