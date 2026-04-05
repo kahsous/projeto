@@ -32,3 +32,4 @@ As IAs generativas têm grande potencial para criação de conteúdo e uso em ne
 ---
 
 ## 🔗 Link do Projeto
+https://github.com/kahsous/projeto
